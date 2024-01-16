@@ -11,12 +11,12 @@ Soy Juan Querol León, un entusiasta del frontend con un amor innato por la crea
 
 ## Proyectos Destacados 🌟
 
-### [Ramdom+](suma-aleatorio-vert.vercel.app)
+### [Ramdom+](https://github.com/juanquerol/sumaAleatorio)
 
 Un juego hecho con javascript html y css
 donde tienes que sumar numeros aleatorios hasta llegar a tu objetivo
 
-### [Node Y Express](node-express-rose-xi.vercel.app)
+### [Node Y Express](https://github.com/juanquerol/NodeExpress)
 
 Un proyecto en angular donde se explica que es node.js y express 
 
