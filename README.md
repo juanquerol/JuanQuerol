@@ -20,7 +20,7 @@ donde tienes que sumar numeros aleatorios hasta llegar a tu objetivo
 
 Un proyecto en angular donde se explica que es node.js y express 
 
-### [Numeros Ciegos](enlace-a-desafio-creativo)
+### [Numeros Ciegos](https://github.com/juanquerol/NumerosCiegos)
 
 un juego donde tienes que ordenar numeros aleatorios de menor a mayor
 
