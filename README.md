@@ -7,7 +7,7 @@
 Soy Juan Querol León, un entusiasta del frontend con un amor innato por la creatividad. Mi enfoque no solo es construir sitios web funcionales, sino también cautivadores visualmente.
 
 - 🌈 **Creatividad en Código**: Transformo ideas en interfaces atractivas y experiencias interactivas.
-- 💻 **Tecnologías Dominadas**: JavaScript, HTML, CSS, y mi arma secreta, Angular.
+- 💻 **Tecnologías Dominadas**: JavaScript, HTML, CSS, y mi arma secreta, Vue js.
 
 ## Proyectos Destacados 🌟
 
@@ -20,15 +20,17 @@ donde tienes que sumar numeros aleatorios hasta llegar a tu objetivo
 
 Un proyecto en angular donde se explica que es node.js y express 
 
-### [Numeros Ciegos](https://github.com/juanquerol/NumerosCiegos)
+### [BrainRang](https://github.com/juanquerol/tfgJuanQuerol)
 
-un juego donde tienes que ordenar numeros aleatorios de menor a mayor
+Trabajo de fin de ciclo del ciclo formativo de grado superior de desarrollo de aplicacciones web
+Una red social para la gente creativa donde publicas tus ideas y la gente te ayuda a mejorarlo o te apoya a que sigas haciendo esa idea
+Esta red social tambien incluye un chat global donde se puede hacer una lluvia de ideas global.
 
 ## Habilidades y Herramientas 🛠️
 
 - **JavaScript**: Transformo lógica en experiencias dinámicas.
 - **HTML & CSS**: Construyo bases sólidas para interfaces elegantes.
-- **Angular**: Mi herramienta preferida para proyectos web ambiciosos.
+- **Vue js**: Mi herramienta preferida para proyectos web ambiciosos.
 
 ## Colaboración y Contacto 💬
 
