@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi espacio creativo en el mundo del desarrollo web! Soy un apasionado desarrollador frontend que combina código y diseño para crear experiencias web impactantes.
 
-## Sobre Mí 
+## Sobre Mí 🚀
 
 Soy Juan Querol León, un entusiasta del frontend con un amor innato por la creatividad. Mi enfoque no solo es construir sitios web funcionales, sino también cautivadores visualmente.
 
